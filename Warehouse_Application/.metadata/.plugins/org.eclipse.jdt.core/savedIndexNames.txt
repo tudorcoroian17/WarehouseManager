@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\tudor\Tudor\2ndYearCS_II\ProgrammingTechniques\PT2020\pt2020_30423_coroian_tudor_assignment_3\.metadata\.plugins\org.eclipse.jdt.core
+3428879026.index
+2468192116.index
+2009718092.index
+14926631.index
+3930625837.index

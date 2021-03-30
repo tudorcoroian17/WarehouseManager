@@ -1,0 +1,29 @@
+Insert client: Mihai Dobre, Bistrita
+Insert client: Mirel Constantin, Onesti
+Insert client: Viorin Copoiu, Onesti
+Insert client: Neculai Isac, Babenii
+Report client
+Delete client: Mircea Nicolae, Onesti
+Delete client: Neculai Isac, Babenii
+Report client
+Insert product: plum, 40, 1.75
+Insert product: quince, 50, 3.15
+Insert product: kale, 25, 7.20
+Insert product: plum, 20, 1.75
+Insert product: cucumber, 20, 14
+Report product
+Delete product: apple
+Delete product: cucumber
+Report product
+Order: Mihai Dobre, plum, 2
+Order: Mirel Constantin, quince, 3
+Order: Viorin Copoiu, kale, 4
+Order: Mihai Dobre, quince, 4
+Order: Mihai Dobre, cucumber, 2
+Order: Mihai Dobre, kale, 5
+Order: Mihai Dobre, plum, 4
+Order: Mirel Constantin, kale, 40
+Report order
+Delete product: plum
+Report order
+Report product

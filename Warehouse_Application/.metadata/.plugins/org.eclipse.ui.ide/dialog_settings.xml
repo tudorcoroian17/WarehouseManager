@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\tudor\Tudor\2ndYearCS_I\ObjectOrientedProgramming\2019-30423\Students\Coroian Tudor\LibraryProjectOOP"/>
+			<item value="C:\Users\tudor\Tudor\2ndYearCS_I\ObjectOrientedProgramming\2019-30423\Students\Coroian Tudor\com.scheduler"/>
+			<item value="C:\Users\tudor\Tudor\2ndYearCS_I\ObjectOrientedProgramming\2019-30423\Students\Coroian Tudor\com.library"/>
+			<item value="C:\Users\tudor\Tudor\2ndYearCS_II\ProgrammingTechniques\utcn_dsrl-pt-reflection-example-4fa035e84c34"/>
+			<item value="C:\Users\tudor\Tudor\2ndYearCS_II\ProgrammingTechniques\utcn_dsrl-pt-layered-architecture-fa3f32f80f9b"/>
+			<item value="C:\Users\tudor\Tudor\2ndYearCS_II\ProgrammingTechniques\PT2020\pt2020_30423_coroian_tudor_assignment_3\.order.mng\src"/>
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+	</section>
+</section>
